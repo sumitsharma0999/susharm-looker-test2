@@ -11,3 +11,5 @@ datagroup: susharm_proj2_default_datagroup {
 persist_with: susharm_proj2_default_datagroup
 
 explore: persons {}
+
+# Comment from github ui
